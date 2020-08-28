@@ -1,4 +1,4 @@
-# world2
+# World Time App
 
 A new Flutter application.
 
